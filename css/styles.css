@@ -32,4 +32,4 @@ a:hover{text-decoration: none;color:#fff;}
 .freelance-div{padding-top:100px;padding-bottom:50px;padding-left: 50px;padding-right:50px;}
 .freelance-head, .what-i-can-do, .about-intro-head{color:#4d4c7d;font-weight: bolder;}
 .freelance-para{padding:10px 60px;font-weight: bolder;}
-@media (max-device-width: 768px) and (min-device-width:200px){.about-div{padding:40px;display:flex;justify-content: center;}.about-intro-para{padding:20px;}.intro-head{font-size:30px;font-weight: 700;}.myImg{width:100%;}.intro-text{color:#dddddd;position:absolute;top:10vh;}.work-intro{padding:20px;}}
+@media (max-device-width: 768px) and (min-device-width:200px){.about-div{padding:40px;display:flex;justify-content: center;}.about-intro-para{padding:20px;}.intro-head{font-size:30px;font-weight: 700;}.myImg{width:100%;}.intro-text{color:#dddddd;position:absolute;top:10vh;}.work-intro{padding:20px;}.freelance-para{padding:10px;}}
