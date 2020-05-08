@@ -3,7 +3,7 @@ footer{padding-top:30px;padding-bottom:30px;background-color: #84a9ac;}
 .texture{height:100vh;width:100vw;margin:0;}
 .container-fluid{padding:0;}
 .all-contain-div{display:flex;justify-content: center;align-items: center;}
-.intro-text{color:#dddddd;position:absolute;top:40vh;}
+.intro-text{color:#dddddd;position:absolute;top:60vh;}
 .intro-head{font-size:90px;font-weight: 900;}
 .name{color:#dddddd;}
 .intro-para{font-size:30px;font-family: 'Dancing Script', cursive;}
